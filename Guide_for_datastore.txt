@@ -1,0 +1,12 @@
+					-----guide for datastore------
+#     create object for DataStore
+#     Then we can access following methods 
+      *	create(key,value);
+       	key = string
+ 	value = JSONobject
+      * read(key)
+	key= string
+      * delete(key)
+ 	key=string
+#	When object is created,it tries to save the file in c drive of computer ,if access is denied ,it create the file in a reasonable location.  
+	 
