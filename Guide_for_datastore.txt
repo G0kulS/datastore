@@ -8,5 +8,6 @@
 	key= string
       * delete(key)
  	key=string
-#	When object is created,it tries to save the file in c drive of computer ,if access is denied ,it create the file in a reasonable location.  
+#	When object is created,it tries to save the file in c drive of computer ,if access is denied ,it create the file in a  	    reasonable location.  
+#      pls run the test file to check data store.   
 	 
